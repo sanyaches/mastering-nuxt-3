@@ -1,0 +1,1 @@
+<template>Hello nuxt3 mastering!</template>
